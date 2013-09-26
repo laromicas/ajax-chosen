@@ -56,7 +56,7 @@ Add
 
 to 
 
-	.chzn-container .chzn-results .group-result {
+	.chosen-container .chosen-results .group-result {
 
 class
 
